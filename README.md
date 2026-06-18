@@ -11,7 +11,7 @@
 [![LangGraph](https://img.shields.io/badge/LangGraph-0.2-1C3C3C?logo=langchain&logoColor=white)](https://langchain-ai.github.io/langgraph/)
 [![LangChain](https://img.shields.io/badge/LangChain-0.3-1C3C3C?logo=langchain&logoColor=white)](https://langchain.com)
 [![GPT-5](https://img.shields.io/badge/GPT--5-Powered-412991?logo=openai&logoColor=white)](https://openai.com)
-[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)](#license)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Built for NextGenHacks 2026**
 
@@ -583,9 +583,7 @@ Built for **NextGenHacks 2026**.
 
 ## License
 
-**Private — All Rights Reserved.**
-
-This project was built as a submission for NextGenHacks 2026. All rights are reserved by the author(s). Unauthorized reproduction, distribution, or use of this software is prohibited without explicit written permission.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
