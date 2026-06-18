@@ -15,6 +15,8 @@
 
 **Built for NextGenHacks 2026**
 
+[Live Demo](https://on-board-ease.vercel.app/) | [Video Demo (TBD)](#demo--screenshots) | [Devpost Submission (TBD)](#demo--screenshots)
+
 </div>
 
 ---
@@ -266,7 +268,7 @@ The following sequence describes the end-to-end flow when a user generates an AI
 
 ## Demo & Screenshots
 
-> **Live Demo:** TBD
+> **Live Demo:** [https://on-board-ease.vercel.app/](https://on-board-ease.vercel.app/)
 >
 > **Video Walkthrough:** TBD
 
