@@ -15,7 +15,7 @@
 
 **Built for NextGenHacks 2026**
 
-[Live Demo](https://on-board-ease.vercel.app/) | [Video Demo (TBD)](#demo--screenshots) | [Devpost Submission (TBD)](#demo--screenshots)
+[Live Demo](https://on-board-ease.vercel.app/) | [Video Demo](https://youtu.be/8oThVIdew0A) 
 
 </div>
 
@@ -263,25 +263,6 @@ The following sequence describes the end-to-end flow when a user generates an AI
 5. **GPT-5 Reasoning** — At each workflow step, LangChain sends structured prompts to GPT-5 via the AIML API. The model generates role-specific tasks, estimates durations, assigns priorities, and sequences the plan logically.
 6. **Response Generation** — The LangGraph agent aggregates the model outputs into a structured JSON response containing the complete onboarding plan with tasks, categories, and metadata.
 7. **Dashboard Update** — The React frontend receives the response and renders the generated plan in the appropriate dashboard — ready for review, editing, and assignment to new hires.
-
----
-
-## Demo & Screenshots
-
-> **Live Demo:** [https://on-board-ease.vercel.app/](https://on-board-ease.vercel.app/)
->
-> **Video Walkthrough:** TBD
-
-### Screenshots
-
-| View | Description |
-|---|---|
-| **Landing Page** | Product overview with feature highlights, social proof, and interactive demo preview |
-| **AI Task Builder** | LangGraph-powered task generation interface with role context input and real-time plan output |
-| **Mentor Dashboard** | Real-time mentee tracking with task progress, engagement metrics, and AI-assisted insights |
-| **Code Playground** | Monaco Editor + live PTY terminal for interactive technical onboarding exercises |
-
-> *Screenshots will be added prior to final submission.*
 
 ---
 
